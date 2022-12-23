@@ -1,5 +1,6 @@
 *yml
 *yaml
+*.Development.json
 \bin
 \obj
 \Debug
