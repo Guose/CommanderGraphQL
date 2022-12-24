@@ -1,0 +1,22 @@
+# FILES
+*.yml
+*.yaml
+*.log
+*.dll
+*.pdb
+*.dev.json
+*.assets.json
+*.cache
+*.props
+*.dgspec.json
+*appsettings.Development.json
+*appsettings.json
+*launchSettings.json
+*.razor.json
+*.vscode
+
+# DIRECTORIES
+obj/Debug/net7.0/*
+obj/Debug/net5.0/*
+obj/
+bin/
