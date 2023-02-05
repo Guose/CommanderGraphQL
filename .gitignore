@@ -4,6 +4,7 @@
 *.log
 *.dll
 *.pdb
+*.json
 *.dev.json
 *.assets.json
 *.cache
